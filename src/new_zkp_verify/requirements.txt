@@ -1,0 +1,22 @@
+# 主要依赖
+torch>=1.7.0
+torchvision>=0.8.1
+numpy>=1.19.2
+matplotlib>=3.3.2
+seaborn>=0.11.0
+tqdm>=4.50.2
+scipy>=1.5.2
+
+# 统计分析
+scikit-learn>=0.23.2
+pandas>=1.1.3
+
+# 图像处理
+Pillow>=8.0.0
+
+# 可视化
+plotly>=4.14.1
+
+# 零知识证明工具依赖 (需要另外安装 snarkjs 和 circom)
+# snarkjs: npm install -g snarkjs
+# circom: npm install -g circom
